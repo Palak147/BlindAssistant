@@ -1,0 +1,4 @@
+#Fri Mar 15 12:15:40 IST 2019
+base.0=E\:\\androidthings-googleassistant\\step4-custom-device-actions\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

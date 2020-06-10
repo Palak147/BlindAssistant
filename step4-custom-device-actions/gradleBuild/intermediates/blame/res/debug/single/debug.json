@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidthings-googleassistant\\step4-custom-device-actions\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\androidthings-googleassistant\\shared\\build\\intermediates\\packaged_res\\debug\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidthings-googleassistant\\step4-custom-device-actions\\gradleBuild\\intermediates\\res\\merged\\debug\\raw_credentials.json.flat",
+        "source": "E:\\androidthings-googleassistant\\shared\\build\\intermediates\\packaged_res\\debug\\raw\\credentials.json"
+    }
+]
